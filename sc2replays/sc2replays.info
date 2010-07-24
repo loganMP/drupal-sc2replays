@@ -1,0 +1,4 @@
+; $Id$
+name = SC2Replays
+description = Upload, manage and parse SC2 replays.
+core = 6.x
